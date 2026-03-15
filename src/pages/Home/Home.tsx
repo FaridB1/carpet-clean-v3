@@ -18,7 +18,7 @@ const services = [
     ),
   },
   {
-    image: 'https://images.unsplash.com/photo-1527515637462-cff94ebb84ce?w=600&q=80',
+    image: 'https://media.istockphoto.com/id/1506179387/photo/dry-cleaners-employee-hoovering-carpet-with-vacuum-cleaner-in-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=k8LzDEB6CCAS6mUUITGLpw1gqgbnvi-W072RAoflO6U=',
     title: 'Xalçaların yerində yuyulması',
     description: 'Ağır xalçaları daşımadan bilavasitə evinizin içərisində yuma xidməti göstəririk.',
     tag: 'Əlverişli',
@@ -271,7 +271,7 @@ export default function Home() {
 
             <h1 className={styles.hero__title}>
               Xalçanıza<br /><em>İkinci Həyat
-</em> Verin
+              </em> Verin
             </h1>
 
             <p className={styles.hero__subtitle}>
@@ -373,7 +373,7 @@ export default function Home() {
           <div className={styles.whyus__inner}>
             <div className={styles.whyus__image}>
               <img
-                src="https://images.unsplash.com/photo-1527515637462-cff94ebb84ce?w=900&q=80"
+                src="https://plus.unsplash.com/premium_photo-1661663379320-213541539ec8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FycGV0JTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D"
                 alt="Professional Cleaning"
               />
               <div className={styles.whyus__badge}>
